@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Yeongdeok Snow Crab';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/YeongdeokSnowCrab/YeongdeokSnowCrab.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/YeongdeokSnowCrab/YeongdeokSnowCrab.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/YeongdeokSnowCrab/YeongdeokSnowCrab.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/YeongdeokSnowCrab/YeongdeokSnowCrab.ttf') format('truetype');
+}
